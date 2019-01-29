@@ -1,3 +1,5 @@
 module github.com/jefferai/gomodtestclient
 
-require github.com/jefferai/gomodtest/api v1.0.5
+go 1.12
+
+require github.com/jefferai/gomodtest/api v1.0.6
